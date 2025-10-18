@@ -4,8 +4,6 @@ A lightweight, single-user Task Manager you can use to create, edit, delete, and
 
 Live Demo: https://single-task-manager.vercel.app/
 
-<!-- Replace with your screenshot path -->
-
 Features
 
 ✅ Add / edit / delete tasks
@@ -23,7 +21,6 @@ Features
 Tech Stack
 
 Frontend: HTML, CSS, JavaScript (vanilla)
-(If you’re using a framework, update this section accordingly—e.g., React/Next.js)
 
 State & Storage: localStorage
 
